@@ -1,0 +1,14 @@
+{
+  "name": "protobufs",
+  "version": "1.0.0",
+  "description": "PROTOBUFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protobuf"
+  ],
+  "author": "justisGipson",
+  "license": "ISC"
+}
